@@ -31,5 +31,5 @@ A Java Swing-based desktop application to create, manage, and view class timetab
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/your-username/timetable-generator.git
-   cd timetable-generator
+   git clone https://github.com/your-username/timetable-automate.git
+   cd timetable-automate
