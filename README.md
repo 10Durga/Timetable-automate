@@ -16,7 +16,7 @@ A Java Swing-based desktop application to create, manage, and view class timetab
 
 ## 🧱 Technologies Used
 
-- Java 8+
+- Java 21
 - Java Swing for GUI
 - AWT for event handling and UI components
 
